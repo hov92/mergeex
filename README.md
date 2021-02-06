@@ -1,5 +1,5 @@
 # mergeex
 
-#testing merge conflict
+#edit here instead
 
-example
+instead
